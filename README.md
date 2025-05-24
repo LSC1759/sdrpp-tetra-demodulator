@@ -1,3 +1,5 @@
+rebuild pls
+
 # sdrpp-tetra-demodulator
 Tetra demodulator plugin for SDR++
 
